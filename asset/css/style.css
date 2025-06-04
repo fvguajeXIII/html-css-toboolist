@@ -8,6 +8,14 @@ body {
   background-color: #f6f8fa;
 }
 
+main {
+  padding-top: 28px;
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  justify-content: center;
+}
+
 header {
   height: 70px;
   padding-top: 10px;
@@ -28,3 +36,33 @@ body, header, .logo {
   vertical-align: middle;
 }
 
+.container {
+  background-color: #FFFFFF;
+  border-radius: 6px;
+  max-width: 1400px;
+  width: 100%;
+  margin: auto;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px #b1b1b1 solid;
+}
+
+.container p {
+  display: inline;
+}
+
+.task {
+  background-color: #14AAF5;
+  border: 1px #14AAF5 solid;
+  color: #FFFFFF;
+  padding: 4px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+.section {
+  border: 1px #b1b1b1 solid;
+  color: #b1b1b1;
+  padding: 4px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+}
