@@ -102,6 +102,17 @@ h5::before{
   line-height: 20px;
 }
 
+.container3{
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  margin-top: 2px;
+  padding: 40px;
+  border-radius: 5px;
+  font-weight: 400;
+  font-size: 25px;
+}
+
 .category1{
   background-color: #46ADF1;
   color: white;
@@ -134,14 +145,19 @@ h5::before{
   padding: 7px;
 }
 
-.container3{
-  width: 60%;
-  margin: auto;
-  background-color: white;
-  margin-top: 2px;
-  padding: 40px;
-  border-radius: 5px;
-  font-weight: 400;
-  font-size: 25px;
+.category5{
+  background-color: #D763A1;
+  color: white;
+  border-radius: 15px;
+  font-size: 12px;
+  padding: 7px;
+}
+
+.category6{
+  background-color: #B0C925;
+  color: white;
+  border-radius: 15px;
+  font-size: 12px;
+  padding: 7px;
 }
 
